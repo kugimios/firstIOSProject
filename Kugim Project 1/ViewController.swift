@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        // nameLabel.text = "Name Input"
+        nameLabel.text = "Name Input"
     }
 
     override func didReceiveMemoryWarning() {
